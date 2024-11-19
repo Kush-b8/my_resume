@@ -88,3 +88,14 @@ section.dark-mode {
     background-color: #1f1f1f;
     border: 1px solid #444;
 }
+
+/* Style for the circular image */
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto;
+    display: block;
+}
+
